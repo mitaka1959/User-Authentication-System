@@ -1,0 +1,22 @@
+# Ignore app settings
+appsettings.json
+appsettings.Development.json
+
+# Build and publish folders
+bin/
+obj/
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
